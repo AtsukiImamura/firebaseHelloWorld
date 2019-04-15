@@ -1,0 +1,11 @@
+{
+  "enquetes":{
+    "enquete_id1":{
+      "message":"バナナはお好きですか？",
+      "answers":["はい","はい","いいえ","まぁまぁ"]
+    },
+    "enquete_id2":{
+    	
+    }
+  }
+}

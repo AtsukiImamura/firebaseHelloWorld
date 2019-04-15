@@ -1,0 +1,19 @@
+{
+  "name": "firebasehelloworld",
+  "version": "1.0.0",
+  "description": "hello world in the firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtsukiImamura/firebaseHelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtsukiImamura/firebaseHelloWorld/issues"
+  },
+  "homepage": "https://github.com/AtsukiImamura/firebaseHelloWorld#readme"
+}
